@@ -1,0 +1,55 @@
+{
+  "basics": {
+    "name": "Alex Choi",
+    "label": "Software Engineer",
+    "summary": "Software Engineer passionate about crafting quality products and exploring new challenges",
+    "website": "heyalexchoi.com",
+    "phone": "(818) 917-0317",
+    "email": "heyalexchoi@gmail.com",
+    "location": {
+      "postalCode": "11211",
+      "city": "Brooklyn",
+      "countryCode": "United States",
+      "region": "New York"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "heyalexchoi",
+        "url": "https://github.com/heyalexchoi"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "heyalexchoi",
+        "url": "https://www.linkedin.com/in/heyalexchoi"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "WeWork",
+      "website": "https://www.wework.com/",
+      "position": "Software Engineer",
+      "startDate": "12/1/2014",
+      "summary": "One of a small team of fast moving engineers building a fully featured social network. 1/2 of the iOS team.",
+      "highlights": [
+        "Added performant per-user customization to previously global content feed using ElasticSearch, Redis, and ActiveRecord hooks.",
+        "Created and championed extensive analytics system that tracks all API requests for cross-querying with production data on AWS Redshift to alleviate considerable operational issues with previous analytics system.",
+        "Provided product and engineering guidance for development of customer facing iOS products."
+      ]
+    },
+    {
+      "company": "GoTenna",
+      "website": "http://www.gotenna.com/",
+      "position": "iOS Lead / Consultant",
+      "startDate": "1/1/2014",
+      "endDate": "6/18/2014",
+      "summary": "Built iOS messenger and offline maps app for \"off-grid\" communications over proprietary radio hardware.",
+      "highlights": [
+        "Secured custom integration with third-party map provider to provide robust, efficient offline maps.",
+        "Collaborated with hardware and firmware engineers to develop custom, BLE-based communications system for controlling radio hardware from iPhone app.",
+        "Developed "
+      ]
+    }
+  ]
+}
