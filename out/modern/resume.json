@@ -95,7 +95,8 @@
       "gpa": "100%",
       "courses": [
         "Algorithms I"
-      ]
+      ],
+      "startDate": "6/1/2014"
     }
   ],
   "skills": [
@@ -112,9 +113,9 @@
       "name": "Web",
       "level": "advanced",
       "keywords": [
+        "Rails",
         "REST",
         "MVC",
-        "Rails",
         "Node.js"
       ]
     },

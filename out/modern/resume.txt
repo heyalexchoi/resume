@@ -9,7 +9,7 @@ Software Engineer passionate about crafting quality products, developing innovat
 SKILLS -------------------------------------------------------------------------
 
 - iOS: Swift Objective-C Cocoa Touch 
-- Web: REST MVC Rails Node.js 
+- Web: Rails REST MVC Node.js 
 - Databases: ActiveRecord PostgreSQL MongoDB 
 - Cloud: Heroku AWS Elastic Beanstalk EC2 S3 
 - General: Shell Git Automation Analytics Google Problem Solving 
@@ -47,7 +47,7 @@ EDUCATION ----------------------------------------------------------------------
 University of California, Berkeley (2005-09 — 2009-05)
 Interdisciplinary study of cognition drawing upon psychology, linguistics, computer science, philosophy, neuroscience, and anthropology.
 
-Coursera (??? — Present)
+Coursera (2014-06 — Present)
 
 
 AFFILIATION --------------------------------------------------------------------

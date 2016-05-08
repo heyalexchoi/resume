@@ -619,7 +619,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>REST  MVC  Rails  Node.js</w:t>
+            <w:t>Rails  REST  MVC  Node.js</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -1258,7 +1258,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>??? — Present</w:t>
+        <w:t>2014 — Present</w:t>
       </w:r>
     </w:p>
 

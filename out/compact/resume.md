@@ -9,7 +9,7 @@ Software Engineer passionate about crafting quality products, developing innovat
 ## SKILLS
 
   - iOS: Swift Objective-C Cocoa Touch 
-  - Web: REST MVC Rails Node.js 
+  - Web: Rails REST MVC Node.js 
   - Databases: ActiveRecord PostgreSQL MongoDB 
   - Cloud: Heroku AWS Elastic Beanstalk EC2 S3 
   - General: Shell Git Automation Analytics Google Problem Solving 
@@ -53,7 +53,7 @@ Very early data hire. Technical resource to business teams and business resource
 Interdisciplinary study of cognition drawing upon psychology, linguistics, computer science, philosophy, neuroscience, and anthropology.
 
 
-### [Coursera](https://github.com/heyalexchoi/algorithms) (??? — Present)
+### [Coursera](https://github.com/heyalexchoi/algorithms) (2014-06 — Present)
 
 
 

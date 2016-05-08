@@ -112,13 +112,13 @@ education:
           - "Perception"
       -
         institution: "Coursera"
+        start: '6/1/2014'        
         title: "Independent Study"
         url: "https://github.com/heyalexchoi/algorithms"        
         grade: '100%'                
         curriculum:
           - 'Algorithms I'
-affiliation:
-  summary: 'wot'
+affiliation:  
   history:
     -
       role: "Member"
@@ -139,9 +139,9 @@ skills:
       name: "Web"
       level: "advanced"
       skills:
-        - "REST"        
-        - "MVC"
         - 'Rails'
+        - "REST"        
+        - "MVC"        
         - 'Node.js'
     -
       name: "Databases"

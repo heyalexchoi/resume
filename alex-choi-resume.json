@@ -136,6 +136,7 @@
       },
       {
         "institution": "Coursera",
+        "start": "6/1/2014",
         "title": "Independent Study",
         "url": "https://github.com/heyalexchoi/algorithms",
         "grade": "100%",
@@ -146,7 +147,6 @@
     ]
   },
   "affiliation": {
-    "summary": "wot",
     "history": [
       {
         "role": "Member",
@@ -172,9 +172,9 @@
         "name": "Web",
         "level": "advanced",
         "skills": [
+          "Rails",
           "REST",
           "MVC",
-          "Rails",
           "Node.js"
         ]
       },
