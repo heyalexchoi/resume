@@ -4,7 +4,7 @@ meta:
   version: 0.0.1
 info:
   label: 'Software Engineer'
-  brief: 'Software Engineer passionate about crafting quality products and exploring new challenges'
+  brief: 'Software Engineer passionate about crafting quality products, developing innovative solutions, and exploring new challenges.'
 contact:
   email: heyalexchoi@gmail.com
   phone: '(818) 917-0317'
@@ -43,9 +43,24 @@ employment:
         - ElasticSearch
         - Postgres
       highlights:
-        - 'Added performant per-user customization to previously global content feed using ElasticSearch, Redis, and ActiveRecord hooks.'
-        - 'Created and championed extensive analytics system that tracks all API requests for cross-querying with production data on AWS Redshift to alleviate considerable operational issues with previous analytics system.'
-        - 'Provided product and engineering guidance for development of customer facing iOS products.'
+        - 'Provided product and engineering leadership for development of customer facing iOS products.'
+        - 'Architected, implemented, and championed a comprehensive, generalized analytics system to alleviate operational issues with previous system.'
+        - 'Added performant per-user customization to previously global content feed using ElasticSearch and Redis.'
+    -
+      employer: Self
+      url: 'https://www.linkedin.com/in/heyalexchoi'
+      position: Consultant
+      summary: 'Built iOS apps for startups and agencies.'
+      start: 7/1/2013
+      keywords:
+        - iOS
+        - startups
+        - agencies
+        - foursquare
+        - parse
+      highlights:
+        - 'Built location-based dating app (Kleer) using Parse and the Foursquare API.'
+        - 'Built a number of custom interaction and animation-heavy iPad apps for pharmaceutical clients via digital agency CAHG.'
     -
       employer: GoTenna
       url: 'http://www.gotenna.com/'
@@ -60,4 +75,103 @@ employment:
       highlights:
         - 'Secured custom integration with third-party map provider to provide robust, efficient offline maps.'
         - 'Collaborated with hardware and firmware engineers to develop custom, BLE-based communications system for controlling radio hardware from iPhone app.'
-        - 'Developed '
+        - 'Contributed to GoTenna system architecture addressing network, hardware, firmware, and software challenges in efficiently sending authenticated, secured messages across a decentralized network while providing a seamless experience.'
+    -
+      employer: PlayHaven
+      url: 'http://www.playhaven.com/'
+      position: 'Senior Data Analyst'
+      summary: 'Very early data hire. Technical resource to business teams and business resource to technical teams.'
+      start: 5/1/2012
+      end: 6/15/2013
+      keywords:
+        - Analytics
+        - 'Mobile Games'
+        - Advertising
+      highlights:
+        - 'Advised internal teams and executive management to improve PlayHaven’s advertising algorithm and network efficiency.'
+        - 'Consulted with partnered mobile game developers to improve user acquisition, retention, and monetization.'
+        - 'Built reporting systems in Pentaho, mined data in SQL, and performed regression analyses in Excel to inform the product roadmap.'
+education:
+  summary: ""
+  level: degree
+  degree: Bachelors
+  history:
+    -
+      institution: 'University of California, Berkeley'
+      title: 'B.A., Cognitive Science'
+      url: 'http://cogsci.berkeley.edu//'
+      start: 2005-09
+      end: 2009-05
+      grade: '3.5'
+      summary: 'Interdisciplinary study of cognition drawing upon psychology, linguistics, computer science, philosophy, neuroscience, and anthropology.'
+      curriculum:
+        - 'Computational Models of Cognition'
+        - 'Philosophy of Meaning'
+        - 'Discrete Mathematics'
+        - 'The Mind and Language'
+        - Perception
+    -
+      institution: Coursera
+      title: 'Independent Study'
+      url: 'https://github.com/heyalexchoi/algorithms'
+      grade: 100%
+      curriculum:
+        - 'Algorithms I'
+affiliation:
+  summary: wot
+  history:
+    -
+      role: Member
+      organization: 'Apple Developer Network'
+      url: 'https://developer.apple.com/'
+      start: 7/1/2013
+      summary: 'Member of the [Apple Developer program](https://developer.apple.com/) since 2013.'
+skills:
+  sets:
+    -
+      name: iOS
+      level: advanced
+      skills:
+        - Swift
+        - Objective-C
+        - 'Cocoa Touch'
+    -
+      name: Web
+      level: advanced
+      skills:
+        - REST
+        - MVC
+        - Rails
+        - Node.js
+    -
+      name: Databases
+      level: intermediate
+      skills:
+        - ActiveRecord
+        - PostgreSQL
+        - MongoDB
+    -
+      name: Cloud
+      level: intermediate
+      skills:
+        - Heroku
+        - AWS
+        - 'Elastic Beanstalk'
+        - EC2
+        - S3
+    -
+      name: General
+      level: advanced
+      skills:
+        - shell
+        - git
+        - automation
+        - analytics
+        - googling
+        - 'problem solving'
+testimonials:
+  -
+    name: 'Paul Franzen'
+    flavor: professional
+    quote: '[Alex has made a] Considerable [impact on the team]. Alex has more than pulled his weight doing a great job on two different platforms. As well as raising questions and developing innovative solutions.'
+    private: true
