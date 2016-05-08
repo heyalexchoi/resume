@@ -12,7 +12,7 @@ SKILLS -------------------------------------------------------------------------
 - Web: REST MVC Rails Node.js 
 - Databases: ActiveRecord PostgreSQL MongoDB 
 - Cloud: Heroku AWS Elastic Beanstalk EC2 S3 
-- General: shell git automation analytics googling problem solving 
+- General: Shell Git Automation Analytics Google Problem Solving 
 
 EMPLOYMENT ---------------------------------------------------------------------
 

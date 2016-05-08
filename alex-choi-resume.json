@@ -202,12 +202,12 @@
         "name": "General",
         "level": "advanced",
         "skills": [
-          "shell",
-          "git",
-          "automation",
-          "analytics",
-          "googling",
-          "problem solving"
+          "Shell",
+          "Git",
+          "Automation",
+          "Analytics",
+          "Google",
+          "Problem Solving"
         ]
       }
     ]

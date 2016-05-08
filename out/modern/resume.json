@@ -1,0 +1,160 @@
+{
+  "basics": {
+    "name": "Alex Choi",
+    "label": "Software Engineer",
+    "summary": "Software Engineer passionate about crafting quality products, developing innovative solutions, and exploring new challenges.",
+    "website": "heyalexchoi.com",
+    "phone": "(818) 917-0317",
+    "email": "heyalexchoi@gmail.com",
+    "location": {
+      "postalCode": "11211",
+      "city": "Brooklyn",
+      "countryCode": "United States",
+      "region": "New York"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "heyalexchoi",
+        "url": "https://github.com/heyalexchoi"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "heyalexchoi",
+        "url": "https://www.linkedin.com/in/heyalexchoi"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "WeWork",
+      "website": "https://www.wework.com/",
+      "position": "Software Engineer",
+      "startDate": "12/1/2014",
+      "summary": "One of a small team of fast moving engineers building a fully featured social network. 1/2 of the iOS team.",
+      "highlights": [
+        "Provided product and engineering leadership for development of customer facing iOS products.",
+        "Architected, implemented, and championed a comprehensive, generalized analytics system to alleviate operational issues with previous system.",
+        "Added performant per-user customization to previously global content feed using ElasticSearch and Redis."
+      ]
+    },
+    {
+      "company": "Self",
+      "website": "https://www.linkedin.com/in/heyalexchoi",
+      "position": "Consultant",
+      "startDate": "7/1/2013",
+      "summary": "Built iOS apps for startups and agencies.",
+      "highlights": [
+        "Built location-based dating app (Kleer) using Parse and the Foursquare API.",
+        "Built a number of custom interaction and animation-heavy iPad apps for pharmaceutical clients via digital agency CAHG."
+      ]
+    },
+    {
+      "company": "GoTenna",
+      "website": "http://www.gotenna.com/",
+      "position": "iOS Lead / Consultant",
+      "startDate": "1/1/2014",
+      "endDate": "6/18/2014",
+      "summary": "Built iOS messenger and offline maps app for \"off-grid\" communications over proprietary radio hardware.",
+      "highlights": [
+        "Secured custom integration with third-party map provider to provide robust, efficient offline maps.",
+        "Collaborated with hardware and firmware engineers to develop custom, BLE-based communications system for controlling radio hardware from iPhone app.",
+        "Contributed to GoTenna system architecture addressing network, hardware, firmware, and software challenges in efficiently sending authenticated, secured messages across a decentralized network while providing a seamless experience."
+      ]
+    },
+    {
+      "company": "PlayHaven",
+      "website": "http://www.playhaven.com/",
+      "position": "Senior Data Analyst",
+      "startDate": "5/1/2012",
+      "endDate": "6/15/2013",
+      "summary": "Very early data hire. Technical resource to business teams and business resource to technical teams.",
+      "highlights": [
+        "Advised internal teams and executive management to improve PlayHaven’s advertising algorithm and network efficiency.",
+        "Consulted with partnered mobile game developers to improve user acquisition, retention, and monetization.",
+        "Built reporting systems in Pentaho, mined data in SQL, and performed regression analyses in Excel to inform the product roadmap."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California, Berkeley",
+      "gpa": "3.5",
+      "courses": [
+        "Computational Models of Cognition",
+        "Philosophy of Meaning",
+        "Discrete Mathematics",
+        "The Mind and Language",
+        "Perception"
+      ],
+      "startDate": "2005-09",
+      "endDate": "2009-05"
+    },
+    {
+      "institution": "Coursera",
+      "gpa": "100%",
+      "courses": [
+        "Algorithms I"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "iOS",
+      "level": "advanced",
+      "keywords": [
+        "Swift",
+        "Objective-C",
+        "Cocoa Touch"
+      ]
+    },
+    {
+      "name": "Web",
+      "level": "advanced",
+      "keywords": [
+        "REST",
+        "MVC",
+        "Rails",
+        "Node.js"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "intermediate",
+      "keywords": [
+        "ActiveRecord",
+        "PostgreSQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "intermediate",
+      "keywords": [
+        "Heroku",
+        "AWS",
+        "Elastic Beanstalk",
+        "EC2",
+        "S3"
+      ]
+    },
+    {
+      "name": "General",
+      "level": "advanced",
+      "keywords": [
+        "Shell",
+        "Git",
+        "Automation",
+        "Analytics",
+        "Google",
+        "Problem Solving"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Paul Franzen",
+      "reference": "[Alex has made a] Considerable [impact on the team]. Alex has more than pulled his weight doing a great job on two different platforms. As well as raising questions and developing innovative solutions."
+    }
+  ]
+}
